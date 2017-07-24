@@ -41,5 +41,9 @@
   "chargeOn": "1",
   "chargeOff": "0",
   "experimental": true
+},{
+  "file": "/sys/devices/platform/battery/Charger_TopOff_Value",
+  "label": (Prestigio PSP5550DUO)",
+  4110
 }
 ]
